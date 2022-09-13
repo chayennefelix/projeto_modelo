@@ -1,0 +1,27 @@
+body{
+    color:black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    width: 80%;
+    background-color: cornflowerblue;
+    margin-left: 10%;
+}
+
+.mainav{
+    background-color: deepskyblue;
+    color: rgb(130, 139, 0);
+}
+
+.mainav li{
+    display: inline;
+    padding: 5% 5%;
+}
+
+.mainav li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
